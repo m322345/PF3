@@ -50,4 +50,5 @@ Développer un **modèle fiable et interprétable** permettant de prédire la co
 
 ---
 - 👥 **Compétences requises** : Machine Learning, Feature Engineering, Sklearn, Python.
-- 🌍 **Données** : Relevés de consommation et caractéristiques des bâtiments de Seattle.
+- 🌍 **Données** : 
+- 🌍 **Source des données** : [Relevés de consommation et caractéristiques des bâtiments de Seattle.]([https://www.kaggle.com/datasets/moltean/fruits](https://data.seattle.gov/Built-Environment/Building-Energy-Benchmarking-Data-2015-Present/teqw-tu6e/about_data))
