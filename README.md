@@ -40,14 +40,14 @@ Les relevés de consommation étant coûteux, l’objectif est de développer un
 - Comparaison des performances des modèles appliqués aux deux cibles.
 
 ## 📦 Livrables Attendus
-✅ Un **notebook** contenant l’analyse exploratoire et les résultats des tests de modélisation.
-✅ Un **modèle de prédiction optimisé** pour les émissions de CO₂ et la consommation énergétique.
-✅ Une **analyse détaillée de l’importance des variables**.
-✅ Une **présentation expliquant la méthodologie et les conclusions**.
+- ✅ Un **notebook** contenant l’analyse exploratoire et les résultats des tests de modélisation.
+- ✅ Un **modèle de prédiction optimisé** pour les émissions de CO₂ et la consommation énergétique.
+- ✅ Une **analyse détaillée de l’importance des variables**.
+- ✅ Une **présentation expliquant la méthodologie et les conclusions**.
 
 ## 🚀 Objectif Final
 Développer un **modèle fiable et interprétable** permettant de prédire la consommation et les émissions des bâtiments non résidentiels, afin d’aider la ville de **Seattle** à optimiser ses stratégies de réduction d’émissions.
 
 ---
-👥 **Compétences requises** : Machine Learning, Feature Engineering, Sklearn, Python.
-🌍 **Données** : Relevés de consommation et caractéristiques des bâtiments de Seattle.
+- 👥 **Compétences requises** : Machine Learning, Feature Engineering, Sklearn, Python.
+- 🌍 **Données** : Relevés de consommation et caractéristiques des bâtiments de Seattle.
